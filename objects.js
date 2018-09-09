@@ -3,7 +3,7 @@ var playlist = {
   title: "Finesse"
 }
 
-function updatePlaylist(obj, key, value){
-  
+function updatePlaylist(playlist, artistName, songTitle){
+  playlist.artistName = [songtitle]
   
 }
