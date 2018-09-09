@@ -1,5 +1,5 @@
 var playlist = {
-  name: "Bruno Mars"
+  name: "Bruno Mars",
   title: "Finesse"
 }
 
