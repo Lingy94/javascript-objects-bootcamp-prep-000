@@ -1,3 +1,3 @@
-var playlist = {Bruno Mars: Chunky,
-  TWICE: TT
+var playlist = {Bruno Mars: "Chunky",
+  TWICE: "TT",
 }
